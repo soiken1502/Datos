@@ -1,0 +1,25 @@
+body {
+  background-image: url("imagen.jpg"); /* Reemplaza "nombre_de_tu_imagen.jpg" con el nombre real de tu archivo de imagen */
+  background-size: cover; /* Esto hará que la imagen cubra todo el fondo, manteniendo su proporción */
+  background-repeat: no-repeat; /* Evita que la imagen se repita si es más pequeña que la ventana */
+  background-attachment: fixed; /* Opcional: Fija la imagen para que no se desplace con el contenido */
+  /* Puedes agregar más estilos al body aquí, como color de texto, etc. */
+}
+h1 {
+  color: lightblue; /* El título "Datos del Creador" será azul claro */
+}
+
+.dat {
+
+ 
+  margin-top: 15px; /* Espacio superior para separarlo del título */
+  width: 300px; /* Ancho del contenedor */
+  text-align: center; 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+.dat p {
+  color: white; 
+  margin-bottom: 4px; 
+
